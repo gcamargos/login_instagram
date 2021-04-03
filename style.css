@@ -168,4 +168,22 @@ border-radius: 4px;
   .app-download{
     margin: 5px;
   }
+  .group{
+    padding: 0px;
+    
+  }
+  a:nth-child(4){
+    
+    margin-top: -10px;
+  }
+  a:nth-child(3){
+
+    margin-top: -10px;
+  }
+  .group img:nth-child(1){
+   
+    margin-bottom:0px ;
+  }
+
+
 }
