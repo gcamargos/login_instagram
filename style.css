@@ -112,12 +112,12 @@ border-radius: 4px;
   height: 3.5rem;
   width: 11.7rem;
 }
-.app-download:nth-child(1){
+/*.app-download:nth-child(1){
   background-image: url('/images/btn_ggp.png');
 }
 .app-download:nth-child(2){
   background-image: url('/images/btn_app.png');
-}
+}*/
 
 @media(max-width:800px){
   .instagram-phone{
